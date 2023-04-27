@@ -1,0 +1,15 @@
+{
+  "name": "wprime-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "easy-fit": "^0.0.8",
+    "react": "^18.2.0"
+  }
+}
